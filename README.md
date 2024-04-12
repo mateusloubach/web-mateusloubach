@@ -1,10 +1,10 @@
 # hireMe Platform - 1.0
 
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
+Created and maintained with ❤️ by [mateusloubach](https://mateusloubach.tech).
 
 ## Live demo
 
-Live demo will be available here 👉️ [https://open.cruip.com/](https://github.com/mateusloubach/web-mateusloubach)
+Live demo will be available here 👉️ [https://hire.mateusloubach.tech/](https://github.com/mateusloubach/web-mateusloubach)
 
 ## hireMePRO
 
